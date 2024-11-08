@@ -1,4 +1,4 @@
-1. [[Array]]
+1. ![[Array]]
 	* [[Two Pointers]]
 	* [[Sliding Window]]
 1. [[String]]
