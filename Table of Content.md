@@ -8,6 +8,7 @@
 5. [[Recursion]]
 	* [[Backtrack]]
 6. [[Stack]]
+	* [[Calculator]]
 7. [[Queue]]
 8. [[Tree]]
 	* [[Trie]]
